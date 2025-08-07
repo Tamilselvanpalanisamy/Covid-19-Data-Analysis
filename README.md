@@ -29,10 +29,11 @@ This project analyzes global COVID-19 data using Python to identify trends in co
 4. Run `Covid-19 Analysis.py`
 
 🧑‍💻 Author
-** TAMILSELVAN.P ** 
+** TAMILSELVAN.P **   
 BE-ECE graduate | Entry-Level Data Analyst | Python Enthusiast
 Email: tamilpalanisamy1103@gmail.com
 LinkedIn: www.linkedin.com/in/tamilselvanp1103
 
 Feel free to modify the content to match your tone or style.
+
 
