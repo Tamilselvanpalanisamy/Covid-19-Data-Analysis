@@ -28,12 +28,13 @@ This project analyzes global COVID-19 data using Python to identify trends in co
 - Source: [Replace with actual source if available, e.g., WHO, Kaggle]
 4. Run `Covid-19 Analysis.py`
 
-🧑‍💻 Author
+🧑‍💻 Author   
 ** TAMILSELVAN.P **   
-BE-ECE graduate | Entry-Level Data Analyst | Python Enthusiast
-Email: tamilpalanisamy1103@gmail.com
+BE-ECE graduate | Entry-Level Data Analyst | Python Enthusiast   
+Email: tamilpalanisamy1103@gmail.com   
 LinkedIn: www.linkedin.com/in/tamilselvanp1103
 
 Feel free to modify the content to match your tone or style.
+
 
 
